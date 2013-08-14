@@ -4,6 +4,7 @@ syntax: globs
 project/boot/
 target/
 
-# eclipse files
 .classpath
 .project
+.idea
+.idea_modules
